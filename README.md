@@ -171,17 +171,6 @@ ai-form-filler-extension/
 
 ---
 
-## 📝 Publishing to Chrome Web Store
-
-1. Create a ZIP: `zip -r ai-form-filler.zip ai-form-filler-extension/ -x "*.DS_Store"`
-2. Go to [Chrome Developer Dashboard](https://chrome.google.com/webstore/devconsole)
-3. Pay the one-time **$5 registration fee**
-4. Click **New Item** → upload the ZIP
-5. Fill in listing details (description, screenshots, category)
-6. Submit for review (typically 1–3 business days)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
