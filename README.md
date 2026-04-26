@@ -23,17 +23,28 @@
 
 ## 📦 Installation
 
-### From Source (Developer Mode)
+### Option 1 — Clone with Git
 
-1. Clone or download this repository
-   ```bash
-   git clone https://github.com/your-username/ai-form-filler-extension.git
-   ```
-2. Open Chrome and navigate to `chrome://extensions`
-3. Enable **Developer mode** (top right toggle)
-4. Click **Load unpacked**
-5. Select the `ai-form-filler-extension` folder
-6. The extension icon will appear in your toolbar — pin it for easy access
+```bash
+git clone https://github.com/RABBI31/AI-form-filer.git
+```
+
+### Option 2 — Download ZIP (no Git required)
+
+1. Go to [github.com/RABBI31/AI-form-filer](https://github.com/RABBI31/AI-form-filer)
+2. Click the green **Code** button → **Download ZIP**
+3. Extract the ZIP to any folder
+
+### Load into Chrome
+
+1. Open Chrome and go to `chrome://extensions`
+2. Enable **Developer mode** (toggle in the top right)
+3. Click **Load unpacked**
+4. Select the extracted/cloned folder
+5. The 🤖 icon will appear in your toolbar — **pin it** for easy access
+6. Navigate to any page with a form → click the icon → **Fill Fields**
+
+> **Note:** This method works without publishing to the Chrome Web Store. Anyone can install it by following these steps. The extension will stay installed across browser restarts.
 
 ---
 
@@ -175,7 +186,7 @@ ai-form-filler-extension/
 
 Contributions are welcome! Feel free to:
 
-- Report bugs via [Issues](https://github.com/your-username/ai-form-filler-extension/issues)
+- Report bugs via [Issues](https://github.com/RABBI31/AI-form-filer/issues)
 - Submit feature requests
 - Open pull requests
 
